@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.34de6062.chunk.css",
+    "main.js": "/website/static/js/main.2b859e89.chunk.js",
+    "main.js.map": "/website/static/js/main.2b859e89.chunk.js.map",
+    "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
+    "runtime~main.js.map": "/website/static/js/runtime~main.de462641.js.map",
+    "static/js/2.3f34a3e8.chunk.js": "/website/static/js/2.3f34a3e8.chunk.js",
+    "static/js/2.3f34a3e8.chunk.js.map": "/website/static/js/2.3f34a3e8.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.9b8a402fb679213f0e1a7e579089f130.js": "/website/precache-manifest.9b8a402fb679213f0e1a7e579089f130.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/website/static/css/main.34de6062.chunk.css.map",
+    "static/media/bridge.jpg": "/website/static/media/bridge.aba97fb4.jpg",
+    "static/media/image.jpg": "/website/static/media/image.1ee62996.jpg"
+  }
+}
